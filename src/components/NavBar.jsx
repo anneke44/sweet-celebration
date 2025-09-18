@@ -15,7 +15,7 @@ export default function NavBar() {
               className="sweet-celebration-logo img img-fluid"
             />
           </NavLink>{" "}
-          <span className="signature">Sweet Celebration</span>
+          <span className="signature">Sweet Celebrations</span>
         </div>
         <div className="dropDown">
           <ul>
