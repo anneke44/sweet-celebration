@@ -1,0 +1,23 @@
+.About {
+  height: fit-content;
+}
+.about-wrapper {
+  height: fit-content;
+  padding: 100px 50px;
+}
+
+.elzari-headshot {
+  margin-left: 50px;
+  margin-top: auto;
+  width: 250px;
+  border-radius: 6px;
+  border-left: 1px solid var(--color-orange);
+  border-bottom: 1px solid var(--color-orange);
+  border-right: 2px solid var(--color-orange);
+  border-top: 2px solid var(--color-orange);
+  align-self: center;
+}
+.sign-off {
+  margin-top: 100px;
+  font-size: 24px;
+}
