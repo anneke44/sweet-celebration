@@ -4,6 +4,7 @@ import Homepage from "./pages/Homepage";
 import About from "./pages/About";
 import Packages from "./pages/Packages";
 import Contact from "./pages/Contact";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
@@ -18,6 +19,7 @@ function App() {
           <Route path="/packages" element={<Packages />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
+        <Footer />
       </header>
     </div>
   );
